@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-<p align="center"><b>2nd-year AIML Student · Full-Stack Developer · AI/ML Explorer</b></p>
+<p align="center"><b>Full-Stack Developer · AI/ML Explorer</b></p>
 
 <p align="center">
   <img alt="Full Stack" src="https://img.shields.io/badge/Full--Stack-Developer-2ea44f?style=flat-square">
